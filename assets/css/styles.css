@@ -326,7 +326,7 @@ img {
   position: absolute;
   left: 0;
   bottom: 0;
-  background-color: var(--first-color);
+  background-color: var(--second-color);
   height: .25rem;
   border-radius: .5rem;
   z-index: var(--z-back);
@@ -347,7 +347,9 @@ img {
 .skills__ux {
   width: 25%;
 }
-
+.skills__react{
+  width: 10%;
+}
 .skills__img {
   border-radius: .5rem;
 }
